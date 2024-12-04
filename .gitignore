@@ -1,0 +1,5 @@
+# 项目排除路径
+/maven-project01/target/
+/mybatis-demo1/target/
+/springbootHello/springbootHello/target/
+/sprintbootdemo/target/

@@ -15,7 +15,7 @@ mybatis:
 
 aliyun:
     oss:
-      endpoint: https://oss-cn-chengdu.aliyuncs.com
-      accessKeyId: LTAI5tAae5c33H8pTCMRq5g4
-      accessKeySecret: S6xVr2LWsf5yEXtd1lUqIZ5szJNQNo
-      bucketName: springbot
+      endpoint: your_endpoint
+      accessKeyId: your_accessKeyId
+      accessKeySecret: your_accessKeySecret
+      bucketName: your_bucketName
